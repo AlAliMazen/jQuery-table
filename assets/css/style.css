@@ -1,0 +1,22 @@
+.title-hovered{
+    color:red;
+    background-color: aqua;
+    border:solid 1px red;
+    font-size: 50px;
+}
+
+.title-unhovered{
+    color: black;
+    background-color: #fafafa;
+    border: none;
+}
+
+.make-green{
+    color:green;
+    background-color: #fbfbeb;
+}
+
+.make-normal{
+    color:black;
+    background-color: #fafafa;
+}
